@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+    color: #2b2839;
+}
+
+#hero {
+    margin: 50px auto;
+    background-image: url("images/havana.jpg");
+    
+    background-size: cover;
+    border-radius: 10px 10px 0 0;
+    padding: 50px;
+    height: 500px;
+    width: 400px;
+}
+
+.highlights {
+    margin-top: 50px;
+}
+
+.img{
+   
+   width: 90px;
+   height: 90px;
+   border-radius: 50%;
+}
+
+#havana {
+    display: inline;
+    background-color: #1D3557;
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#havana-life {
+    
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #457B9D;
+}
+
+.container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+
+.guide {
+    display: flex;
+    width: 400px;
+    background-color: #A8DADC;
+    margin: 50px auto;
+    text-align: center;
+    border-bottom: 5px solid #457B9D;
+    border-radius: 5px;
+    
+}
+
+.guide-photo {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 20px;
+    border-radius: 5px;
+    
+}
+
+.tour-guide {
+    margin-right: 20px;
+}
+
+.column {
+    padding: 30px;
+}
+
